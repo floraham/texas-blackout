@@ -58,4 +58,4 @@ Houston-Blackouts
 ``` 
 
 ### Data Download Instructions
-#### ！ The data associated with this assignment is too large to include in the GitHub repo. Data should be stored locally and added to .gitignore file. Download data from [here](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view?usp=sharing)w
+#### ！ The data associated with this assignment is too large to include in the GitHub repo. Data should be stored locally and added to .gitignore file. Download data from [here](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view?usp=sharing)
