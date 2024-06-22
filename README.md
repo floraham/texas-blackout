@@ -3,7 +3,7 @@
 #### 🤠 Author: Flora Hamilton | floraham@github.io 
 
 
-#### 📦 Repo Link: https://github.com/floraham/xxxx
+#### 📦 Repo Link: https://github.com/floraham/texas-blackout
 This Github repository contains a .RMD file conducting an analysis of Texas's blackout impacts and recovery in 2021. We use 4 types of datasets to conduct this analysis. 
 
 ## Context 
